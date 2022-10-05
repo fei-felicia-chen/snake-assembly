@@ -1,4 +1,3 @@
-# Constant definition. You can use them like using an immediate.
 # color definition:
 .eqv BLACK	0x00000000
 .eqv RED	0x00ff0000
